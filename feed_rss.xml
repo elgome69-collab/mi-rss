@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Tech News</title>
+        <link>https://www.technews.com</link>
+        <description>Las últimas novedades tecnológicas</description>
+        <item>
+            <title>MacBook Pro 14 estrena una nueva potencia en IA</title>
+            <link>https://www.muycomputer.com/noticias/</link>
+            <guid>https://www.muycomputer.com/noticias/</guid>
+            <description>El MAcBook Pro 14 M6 da el siguiente paso en la nueva generación de Apple</description>
+            <pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Noticias sobre Cyberpunk 2</title>
+            <link>https://www.muycomputer.com/2026/10/27/cyberpunk-2-da-nuevas-pistas-sobre-su-modo-multijugador/</link>
+            <guid>https://www.muycomputer.com/2026/10/27/cyberpunk-2-da-nuevas-pistas-sobre-su-modo-multijugador/</guid>
+            <description>nuevas pistas sobre su modo multijugador</description>
+            <pubDate>Tue, 27 Oct 2026 18:21:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Novedades sobre Fujifilm</title>
+            <link>https://www.muycomputer.com/2026/10/27/fujifilm-presenta-una-camara-que-graba-incluso-antes-de-pulsar-el-disparador/</link>
+            <guid>https://www.muycomputer.com/2026/10/27/fujifilm-presenta-una-camara-que-graba-incluso-antes-de-pulsar-el-disparador/</guid>
+            <description>Fujifilm presenta una cámara que graba incluso antes de pulsar el disparador</description>
+            <pubDate>Tue, 27 Oct 2026 17:54:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
